@@ -92,3 +92,7 @@ L'API du marché est très sollicitée. Si nos scripts, le Sniper et le bot Disc
 ## 🗄️ Communication Base de Données (Locale)
 Notre infrastructure lit intelligemment notre base de données SQLite locale (`world.db`). Cela permet d'analyser la carte hors-ligne : compter le nombre exact de tuiles découvertes, lister les îles connues, etc..
 
+✍️ Auteur : 
+[Maxence ROGER](https://github.com/UniformSegue)
+[Baptiste ROUGÉ](https://github.com/)
+[Quentin VILLALON](https://github.com/)
