@@ -26,6 +26,8 @@ Les autres classes héritent de (ou utilisent) cette classe `Api` pour cibler de
 
 Le dashboard est présenté sous la forme d'un bot discord.
 
+> ![Base du Bot](img/basebot.png)
+
 ### 🎯 Le Market Sniper (Alertes de Prix sur Discord)
 Acheter au bon moment est crucial pour évoluer vite. Nous avons intégré un système de **Sniping** directement relié à notre Bot Discord :
 1. Vous définissez un prix cible (ex: "Je veux une alerte si le BOISIUM passe sous les 2 G/unité").
