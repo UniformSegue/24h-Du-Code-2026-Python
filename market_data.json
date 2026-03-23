@@ -1,0 +1,140 @@
+{
+    "ac699f7c-869f-40ae-8ff7-925c46331b92": {
+        "res": "CHARBONIUM",
+        "qty": 218000,
+        "price": 20000.0,
+        "owner": "Anonyme"
+    },
+    "c804e8bd-40d2-45a6-bf06-5e73f3f0bd4f": {
+        "res": "FERONIUM",
+        "qty": 50000,
+        "price": 20000.0,
+        "owner": "Anonyme"
+    },
+    "6ef66bba-d302-48f1-b7d4-17dd71bdc208": {
+        "res": "FERONIUM",
+        "qty": 1000,
+        "price": 15.0,
+        "owner": "Anonyme"
+    },
+    "043fe118-6206-4971-a9b6-32d2ac7a4873": {
+        "res": "BOISIUM",
+        "qty": 35000,
+        "price": 20000.0,
+        "owner": "Anonyme"
+    },
+    "e85b94a7-9393-4916-8a93-300103d28e80": {
+        "res": "CHARBONIUM",
+        "qty": 10000,
+        "price": 5000.0,
+        "owner": "Anonyme"
+    },
+    "c4995652-68d7-4935-8b42-e35d18574df8": {
+        "res": "FERONIUM",
+        "qty": 10000,
+        "price": 1.0,
+        "owner": "Anonyme"
+    },
+    "223b46a1-449e-4781-aee0-ff21e222853e": {
+        "res": "FERONIUM",
+        "qty": 1,
+        "price": 500000000.0,
+        "owner": null
+    },
+    "ff950e1c-f428-4a74-a721-277f57778cc9": {
+        "res": "FERONIUM",
+        "qty": 1,
+        "price": 500000000.0,
+        "owner": null
+    },
+    "52da0e11-d862-4b33-b0c3-d4ff0b07d1a1": {
+        "res": "FERONIUM",
+        "qty": 1,
+        "price": 58877854000.0,
+        "owner": null
+    },
+    "b4ce3cc3-d0cb-4253-a8e3-e57c68c64d0c": {
+        "res": "CHARBONIUM",
+        "qty": 1,
+        "price": 58877854000.0,
+        "owner": null
+    },
+    "12383e0e-7050-48fe-a778-bdf3cbdba59b": {
+        "res": "BOISIUM",
+        "qty": 500,
+        "price": 1.0,
+        "owner": null
+    },
+    "a89f4459-0b5b-4433-947d-5e3d6a276d63": {
+        "res": "FERONIUM",
+        "qty": 1,
+        "price": 1000000000000.0,
+        "owner": null
+    },
+    "a539dbb5-db52-47b2-99ad-c352aa568c45": {
+        "res": "FERONIUM",
+        "qty": 80000,
+        "price": 1.0,
+        "owner": null
+    },
+    "null": {
+        "res": "BOISIUM",
+        "qty": 500000,
+        "price": 1.0,
+        "owner": null
+    },
+    "a0e7c767-255e-42f7-9b82-019a1aa164c8": {
+        "res": "FERONIUM",
+        "qty": 30000,
+        "price": 1.0,
+        "owner": null
+    },
+    "2b85b2e4-a313-4c30-9811-5f4cce89951d": {
+        "res": "BOISIUM",
+        "qty": 1,
+        "price": 100.0,
+        "owner": null
+    },
+    "ee650a01-42d8-42bb-a5db-8c9bb4454133": {
+        "res": "BOISIUM",
+        "qty": 200000,
+        "price": 1.0,
+        "owner": null
+    },
+    "d60baa09-2ed8-47cc-a700-d8d3b3f82b00": {
+        "res": "BOISIUM",
+        "qty": 100000,
+        "price": 1000000.0,
+        "owner": null
+    },
+    "55755646-7f5d-4c5d-b5b0-09858f85acbd": {
+        "res": "FERONIUM",
+        "qty": 500,
+        "price": 5.0,
+        "owner": null
+    },
+    "dc1140ca-682a-4ed6-8b9f-94b002ae5ea6": {
+        "res": "BOISIUM",
+        "qty": 100,
+        "price": 1.0,
+        "owner": null
+    },
+    "ef6aa17e-70d8-44d6-bc5d-f6edc133e643": {
+        "res": "FERONIUM",
+        "qty": 30000,
+        "price": 10000.0,
+        "owner": null
+    },
+    "7193fe92-77d6-4f95-8e89-7fcd6e5dae22": {
+        "res": "FERONIUM",
+        "qty": 1,
+        "price": 100.0,
+        "owner": null
+    },
+    "612cca05-60c0-4dc1-bc1e-b06e827ed3a9": {
+        "res": "CHARBONIUM",
+        "qty": 100000,
+        "price": 100000000.0,
+        "owner": null
+    }
+}
