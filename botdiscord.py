@@ -8,7 +8,7 @@ import sqlite3
 from api import ApiJoin
 from shop import MarketAPI
 from ship import TaxAPI, UpgradeAPI, TheftAPI
-TOKEN_DISCORD = "MTQ4NTAwMzc0NTM2NzY5MTMyNA.G80o5B.VHS1iurpx47nVfdo6vepIKSp6XjVTfUwBaQeyc"
+TOKEN_DISCORD = "NOP"
 TOKEN_API ="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJjb2RpbmdnYW1lIiwic3ViIjoiMGEyNzcwODItYjZlNi00Y2E3LWJlMTItZGE4OGU1N2Q4NmI4Iiwicm9sZXMiOlsiVVNFUiJdfQ.9lmC6AZsJktL3F92Zm2dj8SEdAGfzeWk08g13hB4qRE"
 DB_NAME = "world.db"
 
