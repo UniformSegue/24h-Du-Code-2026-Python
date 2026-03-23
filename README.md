@@ -1,6 +1,6 @@
 # 🏴‍☠️ Bot Discord & Outils d'Automatisation - Jeu 3026 
 
-Ce dépôt contient les scripts Python développés dans le cadre du hackathon (Jeu 3026). Ce projet offre un Bot Discord interactif, des scripts d'automatisation et une architecture API robuste pour dominer la partie en optimisant chaque action.
+Ce dépôt contient les scripts Python développés dans le cadre des 24h du Code (Jeu 3026), en réponse au **sujet proposé par Covéa**. Ce projet offre un Bot Discord interactif, des scripts d'automatisation et une architecture API robuste pour dominer la partie en optimisant chaque action.
 
 ---
 
@@ -32,7 +32,7 @@ Acheter au bon moment est crucial pour évoluer vite. Nous avons intégré un sy
 2. Le Sniper scanne les offres en temps réel (en lisant notre fichier de cache local, sans spammer l'API).
 3. Dès qu'un joueur met en vente une ressource à un prix inférieur ou égal à votre seuil, **le bot envoie immédiatement une notification (Ping) sur Discord !**
 4. Vous pouvez alors bondir sur l'occasion et acheter les ressources avant tout le monde.
-> ![Annonce](cible.png)
+> ![Annonce](img/cible.png)
 
 ---
 
@@ -42,7 +42,7 @@ Le bot gère et facilite l'accès aux mécaniques principales du jeu 3026 :
 
 ### 💎 Les Ressources
 Le jeu tourne autour de 4 ressources fondamentales. L'**OR** sert de monnaie d'échange, tandis que le **FERONIUM**, le **BOISIUM** et le **CHARBONIUM** servent à l'artisanat et aux améliorations.
-> ![Ressources du jeu](ressource.png)
+> ![Ressources du jeu](img/ressource.png)
 
 ### ⬆️ Les Améliorations (Upgrades)
 Pour explorer plus loin, il faut investir ! Le bot permet de suivre les coûts pour améliorer le **Bateau** (vitesse, vision, portée) et l'**Entrepôt / Storage** (pour stocker plus de ressources sans déborder).
@@ -84,7 +84,7 @@ L'API du marché est très sollicitée. Si nos scripts, le Sniper et le bot Disc
 3. Lorsque les joueurs sur Discord ou nos bots automatiques veulent consulter le marché, ils lisent le fichier `shop.json` instantanément, **sans faire aucune requête HTTP vers le serveur du jeu**.
 4. Cela garantit une interface ultra-fluide, permet au Sniper d'être ultra-réactif, et protège totalement notre limite de requêtes (Rate Limit) !
 
-> ![Shop](shop.png)
+> ![Shop](img/shop.png)
 ---
 
 ## 🗄️ Communication Base de Données (Locale)
