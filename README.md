@@ -1,4 +1,4 @@
-# 🏴‍☠️ Bot Discord & Outils d'Automatisation - Jeu 3026 (Hackathon)
+# 🏴‍☠️ Bot Discord & Outils d'Automatisation - Jeu 3026 
 
 Ce dépôt contient les scripts Python développés dans le cadre du hackathon (Jeu 3026). Ce projet offre un Bot Discord interactif, des scripts d'automatisation et une architecture API robuste pour dominer la partie en optimisant chaque action.
 
